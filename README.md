@@ -7,7 +7,9 @@
 執行以下命令依次安裝所需的 Python 套件：
 
 C:/Program Files/Python312/python.exe" -m pip install googletrans==4.0.0-rc1
+
 C:/Program Files/Python312/python.exe" -m pip install opencc-python-reimplemented
+
 C:/Program Files/Python312/python.exe" -m pip install python-docx
 
 C:/Program Files/Python312/python.exe" -m pip install pdfplumber
