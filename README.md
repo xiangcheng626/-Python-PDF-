@@ -1,3 +1,5 @@
+A Python tool for automated translation of English PDFs or large text files.
+
 建置 Python 環境
 安裝 Python，確保已包含 pip 工具。
 創建資料夾
